@@ -1,3 +1,4 @@
+import 'package:colour/colour.dart';
 import 'package:events/homepage/home_page.dart';
 import 'package:flutter/material.dart';
 
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         scaffoldBackgroundColor: Color(0xFFFFFFFF),
-        primaryColor: Color(0xFFFF4700),
+        primaryColor: Colour('#f63e02')
       ),
       home: HomePage(),
     );

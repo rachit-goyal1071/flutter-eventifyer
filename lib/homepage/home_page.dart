@@ -7,7 +7,6 @@ import 'package:events/styleguide.dart';
 import 'package:flutter/material.dart';
 import 'category_widget.dart';
 import 'package:provider/provider.dart';
-
 import 'event_widget.dart';
 
 class HomePage extends StatelessWidget {
