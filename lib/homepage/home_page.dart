@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
                 ),
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 32.0),
-                  child: Text("Hey what are you doing", style: whiteHeaddingTextStyle,),
+                  child: Text("Hey what are you doing,", style: whiteHeaddingTextStyle,),
                 ),
                 Padding(
                   padding: const EdgeInsets.symmetric(vertical: 16.0),
