@@ -1,6 +1,6 @@
-# events
+# Eventifyer
 
-A new Flutter project.
+Flutter project for event tracking.
 
 ## Getting Started
 
@@ -14,3 +14,40 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Pre-requisites
+
+- dart
+- flutter
+
+## Requirements
+
+- dart sdk 3.1.2
+- flutter sdk 3.13.1
+
+## Development Setup
+
+- Fork and clone the repo
+- In your IDE get the required dependencies
+
+Check for issues in sdk
+```bash
+flutter doctor
+```
+Resolve dependencies
+```bash
+flutter pub get
+```
+Run the code
+```bash
+flutter run
+```
+
+## Thanks a lot wonderful contributors
+
+- Thanks a lot for spending your time helping AutoType grow.   
+- Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=rachit-goyal1071/flutter-eventifyer)](https://github.com/rachit-goya1071/flutter-eventifyer/graphs/contributors)
+
+
