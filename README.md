@@ -45,7 +45,7 @@ flutter run
 
 ## Thanks a lot wonderful contributors
 
-- Thanks a lot for spending your time helping AutoType grow.   
+- Thanks a lot for spending your time helping Eventifyer grow.   
 - Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=rachit-goyal1071/flutter-eventifyer)](https://github.com/rachit-goya1071/flutter-eventifyer/graphs/contributors)
